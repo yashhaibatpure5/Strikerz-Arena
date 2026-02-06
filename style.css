@@ -69,7 +69,7 @@ body {
 /* Football Container */
 .football {
   width: 150px;              /* ✅ Best size */
-  height: 1500px;
+  height: 150px;
   border-radius: 50%;
   overflow: hidden;          /* ✅ Crop image into circle */
   background: radial-gradient(circle at 30% 30%, #ffffff, #e6e6e6);
