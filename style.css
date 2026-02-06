@@ -70,7 +70,7 @@ body {
 .football {
   width: 150px;              /* ✅ Best size */
   height: 150px;
-  border-radius: 50%;
+  border-radius: 100%;
   overflow: hidden;          /* ✅ Crop image into circle */
   background: radial-gradient(circle at 30% 30%, #ffffff, #e6e6e6);
   display: flex;
